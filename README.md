@@ -10,7 +10,7 @@ TMySQLHandler is a MySQL database handler designed to **simulate legacy MySQL fu
 ## 🛠️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/TMySQLHandler.git
+   git clone https://github.com/alexsoft-software/TMySQLHandler.git
    ```
 2. Include the library in your project:
    ```php
